@@ -34,7 +34,7 @@ fileprivate extension UIViewController {
     }
 }
 
-public class SwiftMultiImagePicker2Plugin: NSObject, FlutterPlugin {
+public class SwiftMultiImagePicker3Plugin: NSObject, FlutterPlugin {
     var imagesResult: FlutterResult?
     var messenger: FlutterBinaryMessenger;
 
@@ -48,7 +48,7 @@ public class SwiftMultiImagePicker2Plugin: NSObject, FlutterPlugin {
     public static func register(with registrar: FlutterPluginRegistrar) {
         let channel = FlutterMethodChannel(name: "multi_image_picker", binaryMessenger: registrar.messenger())
 
-        let instance = SwiftMultiImagePicker2Plugin.init(messenger: registrar.messenger())
+        let instance = SwiftMultiImagePicker3Plugin.init(messenger: registrar.messenger())
         registrar.addMethodCallDelegate(instance, channel: channel)
     }
 

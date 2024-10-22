@@ -2,8 +2,8 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'multi_image_picker2'
-  s.version          = '5.0.00'
+  s.name             = 'multi_image_picker3'
+  s.version          = '6.0.0'
   s.summary          = 'Multi image picker'
   s.description      = <<-DESC
 A new flutter plugin project.

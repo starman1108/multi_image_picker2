@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:multi_image_picker2/multi_image_picker2.dart';
+import 'package:multi_image_picker3/multi_image_picker3.dart';
 
 class Asset {
   /// The resource identifier

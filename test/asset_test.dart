@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:multi_image_picker2/multi_image_picker2.dart';
+import 'package:multi_image_picker3/multi_image_picker3.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
