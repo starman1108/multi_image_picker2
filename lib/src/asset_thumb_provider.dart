@@ -27,7 +27,7 @@ class AssetThumbImageProvider extends ImageProvider<AssetThumbImageProvider> {
 
   @override
   ImageStreamCompleter load(
-      AssetThumbImageProvider key, DecoderCallback decode) {
+      AssetThumbImageProvider key, ImageDecoderCallback decode) {
     return new MultiFrameImageStreamCompleter(
       codec: _loadAsync(key),
       scale: key.scale,
