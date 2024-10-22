@@ -1,8 +1,9 @@
 
 <h1 align="center">
-  Flutter Multi Image Picker
+  Flutter Multi Image Picker #3
   <br>
 </h1>
+<h3>This repository was forked from multi_image_picker2 5.0.2 (https://github.com/artflutter/multi_image_picker2)</h3>
 
 <h4 align="center">
   <a href="https://flutter.io" target="_blank">Flutter</a> plugin that allows you to display multi image picker on iOS and Android.
@@ -71,12 +72,10 @@ This software uses the following open source packages:
 
 If this plugin was useful to you, helped you to deliver your app, saved you a lot of time, or you just want to support the project, I would be very grateful if you buy me a cup of coffee.
 
-<a href="https://www.buymeacoffee.com/Sh1d0w" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## License
 
 MIT
 
 ---
-> GitHub [@Sh1d0w](https://github.com/Sh1d0w) &nbsp;&middot;&nbsp;
-> Twitter [@RadoslavVitanov](https://twitter.com/RadoslavVitanov)
+> GitHub [@starman1108](https://github.com/starman1108)
